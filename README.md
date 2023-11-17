@@ -1,5 +1,9 @@
 # Assigment3
-A tutorial/source code I used in prototype of assignment 2 since i did not know how to code/write program back then.
+Scratch project
+https://scratch.mit.edu/projects/890732124
+
+
+A tutorial/source code I used in prototype since previous assignment.
 
 
 Scratch Team. (2020, November 20). How to Make a Jumping Game in Scratch | Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=1jHvXakt1qw
