@@ -3,7 +3,7 @@ Scratch project
 https://scratch.mit.edu/projects/890732124
 
 
-A tutorial/source code I used in prototype since previous assignment.
+A tutorial/source code I used in prototype and the final work.
 
 
 Scratch Team. (2020, November 20). How to Make a Jumping Game in Scratch | Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=1jHvXakt1qw
