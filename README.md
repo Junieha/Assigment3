@@ -18,7 +18,6 @@ Oneul. (2023, April 17). 월요일에 필요한 것! : 귀여운 음악, 신나�
 	별 헤는 다락방 Starry Attic. (2021, February 1). ✨샛별 - Sugar cookie🍪✨(Royalty Free Music) [Video]. YouTube. https://www.youtube.com/watch?v=jFVguCEVAUs
 
 
-
  
 	Tim Diedrich Music. (2023, June 24). (no copyright music) lofi type beat "Lily Pond" 🎧 | free vlog music | Tim Diedrich [Video]. https://www.youtube.com/watch?v=k-iZ55YAsNY
 ![image](https://github.com/Junieha/Assigment3/assets/148737452/432a745c-f6a4-43e6-b507-ffb70640531f)
